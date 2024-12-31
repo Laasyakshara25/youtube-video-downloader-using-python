@@ -27,8 +27,7 @@ A Python-based GUI application that allows you to download YouTube videos in the
 ---
 
 ## 🎥 Output Preview
-*(Insert your GIF showcasing the application in action here)*
-
+![YouTube Downloader in Action](assets/yt_downloader.gif)
 ---
 
 ## 📂 Project Structure

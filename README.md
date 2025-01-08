@@ -2,7 +2,7 @@
 
 A Python-based GUI application that allows you to download YouTube videos in the highest available resolution. Built using the power of `pytubefix` and `tkinter`, this application is simple yet highly functional.
 
----
+
 
 ## ✨ Features
 - **User-Friendly Interface**: Easily download videos with a few clicks.
@@ -11,7 +11,7 @@ A Python-based GUI application that allows you to download YouTube videos in the
 - **Scrolling Status Updates**: Get live feedback during the download process.
 - **High-Quality Downloads**: Fetch and download the highest available resolution.
 
----
+
 
 ## 📋 Prerequisites
 1. Python 3.x installed on your system.
@@ -24,11 +24,11 @@ A Python-based GUI application that allows you to download YouTube videos in the
 - **pytubefix**: For handling YouTube video fetching and downloading.
 - **tkinter**: To create an intuitive and responsive graphical user interface.
 
----
+
 
 ## 🎥 Output Preview
 ![YouTube Downloader in Action](https://github.com/Laasyakshara25/youtube-video-downloader-using-python/blob/main/assets/yt-downloader.gif)
----
+
 
 ## 📂 Project Structure
 - `youtube_downloader.py`: Main script for the application.

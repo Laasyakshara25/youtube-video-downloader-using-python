@@ -4,7 +4,7 @@ A Python-based GUI application that allows you to download YouTube videos in the
 
 
 
-## ✨ Features
+## Features
 - **User-Friendly Interface**: Easily download videos with a few clicks.
 - **Customizable Save Location**: Choose the folder to save downloaded videos.
 - **Real-Time Progress**: Track download progress with a percentage bar.
@@ -13,24 +13,24 @@ A Python-based GUI application that allows you to download YouTube videos in the
 
 
 
-## 📋 Prerequisites
+## Prerequisites
 1. Python 3.x installed on your system.
 2. Required libraries:
    ```bash
    pip install pytubefix
    pip install tk
 
-## 🛠 Technologies Used
+## Technologies Used
 - **pytubefix**: For handling YouTube video fetching and downloading.
 - **tkinter**: To create an intuitive and responsive graphical user interface.
 
 
 
-## 🎥 Output Preview
+## Output Preview
 ![YouTube Downloader in Action](https://github.com/Laasyakshara25/youtube-video-downloader-using-python/blob/main/assets/yt-downloader.gif)
 
 
-## 📂 Project Structure
+## Project Structure
 - `youtube_downloader.py`: Main script for the application.
 - `README.md`: Documentation for the project.
 
